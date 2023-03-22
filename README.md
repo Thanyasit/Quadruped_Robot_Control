@@ -1,6 +1,6 @@
 # Quadruped Robot Control
 ## Description
-Quadruped Robot Control is an Arduino-based program developed for a competition. It is designed to control a robot with four legs, using Three servos for each leg. The robot can walk, climb, rotate, and other, and it has ultrasonic sensors to detect obstacles.
+Quadruped Robot Control is an Arduino-based program developed for a competition. It is designed to control a robot with four legs, using Three servos for each leg. The robot can walk, climb, rotate, and other, and it has ultrasonic sensors to detect obstacles.<br><b>2019</b>
 
 ## Hardware requirements
 - Arduino Mega
