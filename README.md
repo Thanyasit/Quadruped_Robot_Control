@@ -8,7 +8,7 @@ Quadruped Robot Control is an Arduino-based program developed for a competition.
 - Ultrasonic sensors
 ## Installation
 1. Clone the repository or download the ZIP file.
-2. Open the Quadruped Robot Control.ino file in the Arduino IDE.
+2. Open the <b>'Quadruped Robot Control.ino'</b> file in the Arduino IDE.
 3. Connect the Arduino Mega to your computer via USB.
 4. Select "Arduino Mega" as the board type and choose the appropriate serial port.
 5. Upload the code to the Arduino.
