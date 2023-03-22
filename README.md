@@ -39,6 +39,16 @@ You can also change the values of the servo positions in the following arrays:
 - <b>'setting'</b>: Initial position of the servos
 - <b>'standnew'</b>: Standing position of the servos
 - <b>'climbu_1'</b> to <b>'climbu_7'</b>: Climbing positions of the servos
+
+## Example
+
+<p align="center">
+<img src="" width="500">
+</p>
+<p align="center">
+<img src="" width="500">
+</p>
+
 ## License
 
 This program is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
